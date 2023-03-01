@@ -12,7 +12,7 @@ def good_bye(name='Fc',emohi='lol'):
 good_bye()
 
 
-#walrus operator
+#walrus operator :=
 a='heloo'
 if((n:=len(a))<10):
     print(f'to small{n}')

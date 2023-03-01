@@ -49,3 +49,12 @@ for item in picture:
            print("*",end="")
     
     print("\n")
+
+
+for x in [1,0,2]:
+    pass
+
+#the pass statement is used as a placeholder for future code
+#when the pass statement is executed nothing happens but you avoid getting an error when empty
+#code is not allowed
+#empty code is not allowed in loops functions definitions class definitions or in if statement
